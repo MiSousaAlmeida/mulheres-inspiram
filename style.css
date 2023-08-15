@@ -1,0 +1,82 @@
+body {
+    font-family: Impact, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    margin: 10;
+    padding: 10;
+  }
+  
+  header {
+    color: #d2a1b0;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  .intro {
+    background-color: #d2a1b0; /* Tom de lilás mais claro */
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+  }
+  
+  .intro h2 {
+    color: #c15e6f; /* Lilás vibrante */
+  }
+  
+  .intro-text p {
+    color: #666;
+  }
+  
+  .profile-main {
+    text-align: center;
+  }
+  
+  .profile-main img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
+  .profile-main h2 {
+    margin: 0.5rem 0;
+  }
+      
+  .profile {
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+    background-color: rgb(236, 228, 228);
+    border-radius: 10px;
+    padding: 1rem;
+  }
+  
+  .profile-img {
+    flex: 1;
+    max-width: 50%;
+  }
+  
+  .profile-img img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .profile-info {
+    flex: 2;
+    padding-left: 1rem;
+  }
+  
+  .profile h3 {
+    margin: 0.5rem 0;
+    color: #9c5a81;
+  }
+  
+  .profile p {
+    margin: 0;
+    color: #666;
+  }
