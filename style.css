@@ -19,14 +19,14 @@ body {
   }
   
   .intro {
-    background-color: #d2a1b0; /* Tom de lilás mais claro */
+    background-color: #d2a1b0;
     padding: 2rem;
     border-radius: 10px;
     margin-bottom: 2rem;
   }
   
   .intro h2 {
-    color: #c15e6f; /* Lilás vibrante */
+    color: #c15e6f; 
   }
   
   .intro-text p {
